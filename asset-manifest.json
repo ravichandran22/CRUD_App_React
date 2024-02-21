@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CRUD_App_React/static/css/main.b2563175.css",
+    "main.js": "/CRUD_App_React/static/js/main.debc2683.js",
+    "index.html": "/CRUD_App_React/index.html",
+    "main.b2563175.css.map": "/CRUD_App_React/static/css/main.b2563175.css.map",
+    "main.debc2683.js.map": "/CRUD_App_React/static/js/main.debc2683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2563175.css",
+    "static/js/main.debc2683.js"
+  ]
+}
